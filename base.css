@@ -6,8 +6,7 @@ body {
     font-size: var(--tamanho-corpo);
     color: var(--cinza);
 
-    background: url(C:\Users\Usuário\challenger-front-end\casaverde\assets\img\fundo-textura.png), 
-    url(C:\Users\Usuário\challenger-front-end\casaverde\assets\img\fundo-linhas.png);
+    background: url(../../img/fundo-textura.png), url(../../img/fundo-linhas.png);
     background-position: center;
 }
 
@@ -17,7 +16,7 @@ body {
 }
 
 .titulo {
-    font-size: var(--tamanho-titulo); 
+    font-size: var(--tamanho-titulo);
 }
 
 .titulo--destaque {
