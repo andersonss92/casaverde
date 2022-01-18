@@ -1,7 +1,7 @@
 .input {
     color: inherit;
     font-family: inherit;
-    font-size:inherit;
+    font-size: inherit;
 
     width: 100%;
 
@@ -14,9 +14,9 @@
 
     margin-bottom: 1rem;
 
-    border: none;
-
     background-color: var(--branco);
+
+    border: none;
 
     box-shadow: 10px 10px 30px var(--preto-transparente);
 }
@@ -29,5 +29,5 @@
 }
 
 .input--email {
-    background-image: url(..\..\img\icones\mail.svg);
+    background-image: url(../../img/icones/mail.svg);
 }
